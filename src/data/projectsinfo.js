@@ -2,7 +2,7 @@ export const projectsinfo=[
     {
         id:1,
         title:'Real Estate App',
-        image:'../src/assets/real-estate-image.jpg',
+        image:'src/assets/real-estate-image.jpg',
         description:'Real Estate App which makes of Bayut API from Rapid API to display different properties in the UAE.',
         tags:['Next JS','Material UI','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Real-Estate-App',
@@ -11,7 +11,7 @@ export const projectsinfo=[
     {
         id:2,
         title:'Tenzies Game',
-        image:'../src/assets/tenzies-image.jpg',
+        image:'src/assets/tenzies-image.jpg',
         description:'A game where user ten dies are displayed and user has to select dies with the same number only. Game finishes if all ten dies are of same number.',
         tags:['React JS'],
         code:'https://github.com/Mehdi-Zafar/Tenzies-Game',
@@ -20,7 +20,7 @@ export const projectsinfo=[
     {
         id:3,
         title:'Cryptoverse',
-        image:'../src/assets/cryptoverse-image.jpg',
+        image:'src/assets/cryptoverse-image.jpg',
         description:'A Cryptocurrency Application that makes use of Coin Ranking API to find statistics related to different cryptocurrencies and Bing News Search to find news related to cryptocurrencies.',
         tags:['React JS','Material UI','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Cryptoverse',
@@ -29,7 +29,7 @@ export const projectsinfo=[
     {
         id:4,
         title:'Magic Memory Game',
-        image:'../src/assets/magic-memory-image.jpg',
+        image:'src/assets/magic-memory-image.jpg',
         description:'A card game where user has to match cards with the same image.',
         tags:['React JS'],
         code:'https://github.com/Mehdi-Zafar/Magic-Memory-Game',
@@ -38,7 +38,7 @@ export const projectsinfo=[
     {
         id:5,
         title:'Movie Land',
-        image:'../src/assets/movie-search-image.jpg',
+        image:'src/assets/movie-search-image.jpg',
         description:'A Movie Search App where the user can search thousands of movies. Ombd API is used to fetch data.',
         tags:['React JS','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Movie-Search',
@@ -47,7 +47,7 @@ export const projectsinfo=[
     {
         id:6,
         title:'Weather App',
-        image:'../src/assets/weather-app-image.jpg',
+        image:'src/assets/weather-app-image.jpg',
         description:'A Weather App where the user enters name of city and in response gets current weather and hourly weather forecast. Open Weather API is used to fetch data.',
         tags:['React JS','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Weather-App',
@@ -56,7 +56,7 @@ export const projectsinfo=[
     {
         id:7,
         title:'Photo Gallery App',
-        image:'../src/assets/photo-gallery-image.jpg',
+        image:'src/assets/photo-gallery-image.jpg',
         description:'A Photo Gallery App where the user can search through beautiful images and download them. Images are fetched through Pixabay API.',
         tags:['React JS','Material UI','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Photo-Gallery-App',
@@ -65,7 +65,7 @@ export const projectsinfo=[
     {
         id:8,
         title:'English Dictionary App',
-        image:'../src/assets/dictionary-image.jpg',
+        image:'src/assets/dictionary-image.jpg',
         description:'A Dictionary App where the user is provided with phonetics, meanings, synonyms and antonyms of the word being searched.',
         tags:['React JS','Tailwind CSS','Rest API'],
         code:'https://github.com/Mehdi-Zafar/English-Dictionary-App',
@@ -74,7 +74,7 @@ export const projectsinfo=[
     {
         id:9,
         title:'Quote Generator App',
-        image:'../src/assets/quote-generator-image.jpg',
+        image:'src/assets/quote-generator-image.jpg',
         description:'Quotes are randomly fetched from an API and displayed to the user.',
         tags:['React JS','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Quote-Generator',
@@ -83,7 +83,7 @@ export const projectsinfo=[
     {
         id:10,
         title:'Fitness App',
-        image:'../src/assets/fitness-app-image.jpg',
+        image:'src/assets/fitness-app-image.jpg',
         description:'A Fitness App where the user can formulate a workout plan which is stored into a Firebase Real-Time Database.',
         tags:['React JS','Firebase'],
         code:'',
@@ -92,7 +92,7 @@ export const projectsinfo=[
     {
         id:11,
         title:'Quizzical',
-        image:'../src/assets/quizzical-image.jpg',
+        image:'src/assets/quizzical-image.jpg',
         description:'A Quiz Game where user needs to answer five multiple choice questions fetched from OTDB API.',
         tags:['React JS','REST API'],
         code:'https://github.com/Mehdi-Zafar/Quizzical',
@@ -101,7 +101,7 @@ export const projectsinfo=[
     {
         id:12,
         title:'Restaurant Menu',
-        image:'../src/assets/restaurant-menu-image.jpg',
+        image:'src/assets/restaurant-menu-image.jpg',
         description:'Online restaurant website where users can add different food items to their cart.',
         tags:['HTML','CSS','Vanilla Javascript'],
         code:'https://github.com/Mehdi-Zafar/Restaurant-menu',
@@ -110,7 +110,7 @@ export const projectsinfo=[
     {
         id:13,
         title:'Grocery List',
-        image:'../src/assets/grocery-list-image.jpg',
+        image:'src/assets/grocery-list-image.jpg',
         description:'User can choose from different items displayed and add them into their cart.',
         tags:['HTML','CSS','Vanilla Javascript'],
         code:'https://github.com/Mehdi-Zafar/Grocery-list',
@@ -119,7 +119,7 @@ export const projectsinfo=[
     {
         id:14,
         title:'Reviews',
-        image:'../src/assets/reviews-image.jpg',
+        image:'src/assets/reviews-image.jpg',
         description:'User reviews are displayed in the form of a carousel.',
         tags:['HTML','CSS','Vanilla Javascript'],
         code:'https://github.com/Mehdi-Zafar/Reviews-slider',
