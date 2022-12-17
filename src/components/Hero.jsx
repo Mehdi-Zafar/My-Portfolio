@@ -1,4 +1,4 @@
-import image from '../assets/hero_image.jpg'
+import image from '/assets/hero_image.jpg'
 import {ImHtmlFive} from 'react-icons/im'
 import {SiJavascript,SiCss3} from 'react-icons/si'
 import {FaReact} from 'react-icons/fa'
