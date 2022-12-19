@@ -2,7 +2,7 @@ const About = () => {
     return ( 
         <div id="about">
             <h1 className="text-2xl text-center my-6 uppercase sm:text-4xl">About Me</h1>
-            <p className="mx-auto w-11/12 text-lg tracking-wider leading-8 text-justify">Hello! My name is Syed Mehdi Zafar. Currently I am pursuing Bachelors of Engineering
+            <p className="mx-auto w-11/12 text-lg tracking-wider leading-8 text-start xs:text-justify ">Hello! My name is Syed Mehdi Zafar. Currently I am pursuing Bachelors of Engineering
              program in Computer Systems from NED University of Engineering and Technology and right now I am in my 7th semester.
             Throughout my university life I have come across multiple domains in Computer Science such as Hardware Design, Computer 
             Networking, Data Science, Software Development, Machine Learning, etc. After having a taste of all these different 
