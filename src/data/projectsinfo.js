@@ -6,7 +6,7 @@ export const projectsinfo=[
         description:'Real Estate App which makes of Bayut API from Rapid API to display different properties in the UAE.',
         tags:['Next JS','Material UI','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Real-Estate-App',
-        source:'https://real-estate-oi79sve84-mehdi-zafar.vercel.app/',
+        source:'https://real-estate-app-mehdi-zafar.vercel.app/',
     },
     {
         id:2,
