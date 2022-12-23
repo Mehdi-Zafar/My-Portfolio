@@ -10,18 +10,18 @@ export const projectsinfo=[
     },
     {
         id:2,
-        title:'Tenzies Game',
-        image:'/assets/tenzies-image.jpg',
-        description:'A game where user ten dies are displayed and user has to select dies with the same number only. Game finishes if all ten dies are of same number.',
-        tags:['React JS'],
-        code:'https://github.com/Mehdi-Zafar/Tenzies-Game',
-        source:'https://tenziesgamereact.netlify.app/',
+        title:'Social Media App',
+        image:'/assets/social-media-app-image.jpg',
+        description:'Social Media Application where users can share pictures with each other.',
+        tags:['React JS','Tailwind CSS'],
+        code:'https://github.com/Mehdi-Zafar/Social-Media-App-frontend',
+        source:'https://social-media-react-app27.netlify.app/',
     },
     {
         id:3,
         title:'Cryptoverse',
         image:'/assets/cryptoverse-image.jpg',
-        description:'A Cryptocurrency Application that makes use of Coin Ranking API to find statistics related to different cryptocurrencies and Bing News Search to find news related to cryptocurrencies.',
+        description:'A Cryptocurrency Application that makes use of Coin Ranking API and Bing News Search to find information related to cryptocurrencies.',
         tags:['React JS','Material UI','Rest API'],
         code:'https://github.com/Mehdi-Zafar/Cryptoverse',
         source:'https://cryptoverse27.netlify.app/',
@@ -55,6 +55,15 @@ export const projectsinfo=[
     },
     {
         id:7,
+        title:'Tenzies Game',
+        image:'/assets/tenzies-image.jpg',
+        description:'A game where user ten dies are displayed and user has to select dies with the same number only. Game finishes if all ten dies are of same number.',
+        tags:['React JS'],
+        code:'https://github.com/Mehdi-Zafar/Tenzies-Game',
+        source:'https://tenziesgamereact.netlify.app/',
+    },
+    {
+        id:8,
         title:'Photo Gallery App',
         image:'/assets/photo-gallery-image.jpg',
         description:'A Photo Gallery App where the user can search through beautiful images and download them. Images are fetched through Pixabay API.',
@@ -63,7 +72,7 @@ export const projectsinfo=[
         source:'https://photogalleryreactapp.netlify.app/'
     },
     {
-        id:8,
+        id:9,
         title:'English Dictionary App',
         image:'/assets/dictionary-image.jpg',
         description:'A Dictionary App where the user is provided with phonetics, meanings, synonyms and antonyms of the word being searched.',
@@ -72,7 +81,7 @@ export const projectsinfo=[
         source:'https://englishdictionaryreactapp.netlify.app/'
     },
     {
-        id:9,
+        id:10,
         title:'Quote Generator App',
         image:'/assets/quote-generator-image.jpg',
         description:'Quotes are randomly fetched from an API and displayed to the user.',
@@ -81,7 +90,7 @@ export const projectsinfo=[
         source:'https://quote-generator-27.netlify.app/'
     },
     {
-        id:10,
+        id:11,
         title:'Fitness App',
         image:'/assets/fitness-app-image.jpg',
         description:'A Fitness App where the user can formulate a workout plan which is stored into a Firebase Real-Time Database.',
@@ -90,7 +99,7 @@ export const projectsinfo=[
         source:'https://fitness-app-react-app.netlify.app/'
     },
     {
-        id:11,
+        id:12,
         title:'Quizzical',
         image:'/assets/quizzical-image.jpg',
         description:'A Quiz Game where user needs to answer five multiple choice questions fetched from OTDB API.',
@@ -99,7 +108,7 @@ export const projectsinfo=[
         source:'https://quizzical-react-app27.netlify.app/'
     },
     {
-        id:12,
+        id:13,
         title:'Restaurant Menu',
         image:'/assets/restaurant-menu-image.jpg',
         description:'Online restaurant website where users can add different food items to their cart.',
@@ -108,7 +117,7 @@ export const projectsinfo=[
         source:'https://restaurant-menu27.netlify.app/'
     },
     {
-        id:13,
+        id:14,
         title:'Grocery List',
         image:'/assets/grocery-list-image.jpg',
         description:'User can choose from different items displayed and add them into their cart.',
@@ -117,7 +126,7 @@ export const projectsinfo=[
         source:'https://grocery-list-27.netlify.app/'
     },
     {
-        id:14,
+        id:15,
         title:'Reviews',
         image:'/assets/reviews-image.jpg',
         description:'User reviews are displayed in the form of a carousel.',
