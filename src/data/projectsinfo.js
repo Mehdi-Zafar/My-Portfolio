@@ -82,12 +82,12 @@ export const projectsinfo=[
     },
     {
         id:10,
-        title:'Quote Generator App',
-        image:'/assets/quote-generator-image.jpg',
-        description:'Quotes are randomly fetched from an API and displayed to the user.',
-        tags:['React JS','Rest API'],
-        code:'https://github.com/Mehdi-Zafar/Quote-Generator',
-        source:'https://quote-generator-27.netlify.app/'
+        title:'Chat Application',
+        image:'/assets/chat-app-image.jpg',
+        description:'Users can sign in using Google or Facebook and start chatting privately or in a group.',
+        tags:['React JS','Tailwind CSS'],
+        code:'https://github.com/Mehdi-Zafar/Chat-Application',
+        source:'https://mychatting-app.netlify.app/'
     },
     {
         id:11,
@@ -133,5 +133,14 @@ export const projectsinfo=[
         tags:['HTML','CSS','Vanilla Javascript'],
         code:'https://github.com/Mehdi-Zafar/Reviews-slider',
         source:'https://reviews27.netlify.app/'
+    },
+    {
+        id:16,
+        title:'Quote Generator App',
+        image:'/assets/quote-generator-image.jpg',
+        description:'Quotes are randomly fetched from an API and displayed to the user.',
+        tags:['React JS','Rest API'],
+        code:'https://github.com/Mehdi-Zafar/Quote-Generator',
+        source:'https://quote-generator-27.netlify.app/'
     },
 ]
