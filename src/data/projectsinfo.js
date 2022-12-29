@@ -28,12 +28,12 @@ export const projectsinfo=[
     },
     {
         id:4,
-        title:'Magic Memory Game',
-        image:'/assets/magic-memory-image.jpg',
-        description:'A card game where user has to match cards with the same image.',
+        title:'Meme Generator App',
+        image:'/assets/meme-generator-image.jpg',
+        description:'A meme generator app with the functionality of adding text on different meme templates.',
         tags:['React JS'],
-        code:'https://github.com/Mehdi-Zafar/Magic-Memory-Game',
-        source:'https://magicmemorygamereact.netlify.app/',
+        code:'https://github.com/Mehdi-Zafar/Meme-Generator',
+        source:'https://meme-generator27.netlify.app/',
     },
     {
         id:5,
@@ -109,6 +109,15 @@ export const projectsinfo=[
     },
     {
         id:13,
+        title:'Magic Memory Game',
+        image:'/assets/magic-memory-image.jpg',
+        description:'A card game where user has to match cards with the same image.',
+        tags:['React JS'],
+        code:'https://github.com/Mehdi-Zafar/Magic-Memory-Game',
+        source:'https://magicmemorygamereact.netlify.app/',
+    },
+    {
+        id:14,
         title:'Restaurant Menu',
         image:'/assets/restaurant-menu-image.jpg',
         description:'Online restaurant website where users can add different food items to their cart.',
@@ -117,7 +126,7 @@ export const projectsinfo=[
         source:'https://restaurant-menu27.netlify.app/'
     },
     {
-        id:14,
+        id:15,
         title:'Grocery List',
         image:'/assets/grocery-list-image.jpg',
         description:'User can choose from different items displayed and add them into their cart.',
@@ -126,7 +135,7 @@ export const projectsinfo=[
         source:'https://grocery-list-27.netlify.app/'
     },
     {
-        id:15,
+        id:16,
         title:'Reviews',
         image:'/assets/reviews-image.jpg',
         description:'User reviews are displayed in the form of a carousel.',
@@ -135,7 +144,7 @@ export const projectsinfo=[
         source:'https://reviews27.netlify.app/'
     },
     {
-        id:16,
+        id:17,
         title:'Quote Generator App',
         image:'/assets/quote-generator-image.jpg',
         description:'Quotes are randomly fetched from an API and displayed to the user.',
