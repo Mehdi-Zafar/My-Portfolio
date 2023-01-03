@@ -55,12 +55,12 @@ export const projectsinfo=[
     },
     {
         id:7,
-        title:'Weather App',
-        image:'/assets/weather-app-image.jpg',
-        description:'A Weather App where the user enters name of city and in response gets current weather and hourly weather forecast. Open Weather API is used to fetch data.',
-        tags:['React JS','Rest API'],
-        code:'https://github.com/Mehdi-Zafar/Weather-App',
-        source:'https://weatherreactapp27.netlify.app/',
+        title:'Google Clone',
+        image:'/assets/google-clone-image.jpg',
+        description:'Google clone where users can search perform web, image and news search.',
+        tags:['React JS','Rest API','Tailwind CSS'],
+        code:'https://github.com/Mehdi-Zafar/Google-clone',
+        source:'https://google-clone27.netlify.app',
     },
     {
         id:8,
@@ -118,6 +118,15 @@ export const projectsinfo=[
     },
     {
         id:14,
+        title:'Weather App',
+        image:'/assets/weather-app-image.jpg',
+        description:'A Weather App where the user enters name of city and in response gets current weather and hourly weather forecast. Open Weather API is used to fetch data.',
+        tags:['React JS','Rest API'],
+        code:'https://github.com/Mehdi-Zafar/Weather-App',
+        source:'https://weatherreactapp27.netlify.app/',
+    },
+    {
+        id:15,
         title:'Magic Memory Game',
         image:'/assets/magic-memory-image.jpg',
         description:'A card game where user has to match cards with the same image.',
@@ -126,7 +135,7 @@ export const projectsinfo=[
         source:'https://magicmemorygamereact.netlify.app/',
     },
     {
-        id:15,
+        id:16,
         title:'Restaurant Menu',
         image:'/assets/restaurant-menu-image.jpg',
         description:'Online restaurant website where users can add different food items to their cart.',
@@ -135,7 +144,7 @@ export const projectsinfo=[
         source:'https://restaurant-menu27.netlify.app/'
     },
     {
-        id:16,
+        id:17,
         title:'Grocery List',
         image:'/assets/grocery-list-image.jpg',
         description:'User can choose from different items displayed and add them into their cart.',
@@ -144,7 +153,7 @@ export const projectsinfo=[
         source:'https://grocery-list-27.netlify.app/'
     },
     {
-        id:17,
+        id:18,
         title:'Reviews',
         image:'/assets/reviews-image.jpg',
         description:'User reviews are displayed in the form of a carousel.',
@@ -153,7 +162,7 @@ export const projectsinfo=[
         source:'https://reviews27.netlify.app/'
     },
     {
-        id:18,
+        id:19,
         title:'Quote Generator App',
         image:'/assets/quote-generator-image.jpg',
         description:'Quotes are randomly fetched from an API and displayed to the user.',
