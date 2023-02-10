@@ -1,5 +1,4 @@
-import {BsBriefcase,BsLinkedin,BsGithub,BsInstagram} from 'react-icons/bs'
-import Separator from './separator'
+import {BsLinkedin,BsGithub,BsInstagram} from 'react-icons/bs'
 
 const Footer = () => {
     return ( 
@@ -7,7 +6,7 @@ const Footer = () => {
             <div className="flex justify-around flex-col mx-auto w-64 sm:flex-row sm:items-center sm:w-full">
                 <div className='m-3 '>
                     <h3 className="text-sm mb-4">Call</h3>
-                    <a className="text-lg mt-4" href="tel:+923330236076">03330236076</a>
+                    <a className="text-lg mt-4" href="tel:+923330236076">+923330236076</a>
                 </div>
                 <div className="m-3">
                     <h3 className="text-sm mb-4">Email</h3>
