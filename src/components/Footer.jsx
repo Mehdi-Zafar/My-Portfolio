@@ -1,4 +1,5 @@
 import {BsLinkedin,BsGithub,BsInstagram} from 'react-icons/bs'
+import {FaLinkedinIn} from 'react-icons/fa'
 
 const Footer = () => {
     return ( 
@@ -19,9 +20,9 @@ const Footer = () => {
             </div>
             <div className="flex justify-center mt-8">
                 <div className="flex mx-4">
-                    <a className="mx-2 text-xl" href="https://github.com/Mehdi-Zafar" target="_blank"><BsGithub/></a>
-                    <a className="mx-2 text-xl" href="https://www.linkedin.com/in/mehdi-zafar-9a910522a/" target="_blank"><BsLinkedin/></a>
-                    <a className="mx-2 text-xl" href="https://www.instagram.com/mehdizaffar/" target="_blank"><BsInstagram/></a>
+                    <a className="mx-2 p-3 border rounded-full text-xl hover:bg-white hover:text-blue-900" href="https://github.com/Mehdi-Zafar" target="_blank"><BsGithub/></a>
+                    <a className="mx-2 p-3 border rounded-full text-xl hover:bg-white hover:text-blue-900" href="https://www.linkedin.com/in/mehdi-zafar-9a910522a/" target="_blank"><FaLinkedinIn/></a>
+                    <a className="mx-2 p-3 border rounded-full text-xl hover:bg-white hover:text-blue-900" href="https://www.instagram.com/mehdizaffar/" target="_blank"><BsInstagram/></a>
                 </div>
             </div>
         </footer>
